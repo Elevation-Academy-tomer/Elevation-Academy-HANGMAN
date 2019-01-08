@@ -1,0 +1,15 @@
+.letters{
+    text-decoration: line-through;
+}
+
+.low-score{
+    color: red
+}
+
+.medium-score{
+    color: yellow
+}
+
+.high-score{
+    color : blue
+}
